@@ -39,15 +39,5 @@ Using Microsoft Excel, this project focuses on:
 
 
 
- ⚙ Step-by-Step Process
+ 
 
- 🧹 1. Data Preparation
-- Open the Excel workbook and save a copy (`healthcare_project_workbook_YourName.xlsx`).
-- Fix date formats and standardize medicine names using `=TRIM(PROPER(cell))`.
-- Remove duplicates using `Visit_ID + Medicine_Prescribed`.
-
- 🔍 2. Lookup & Calculations
-- Use 𝐗𝐋𝐎𝐎𝐊𝐔𝐏 𝐨𝐫 𝐕𝐋𝐎𝐎𝐊𝐔𝐏 to pull `Unit_Cost` from the Inventory sheet.
-- Compute total cost using:
-  ```excel
-  =Quantity * Unit_Cost
