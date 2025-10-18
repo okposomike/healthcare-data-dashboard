@@ -37,7 +37,11 @@ Using Microsoft Excel, this project focuses on:
 `Medicine_Name`, `Category`, `Current_Stock`, `Reorder_Level`, `Supplier`, `Unit_Cost`  
 > Includes a 𝐋𝐨𝐰_𝐒𝐭𝐨𝐜𝐤 𝐟𝐥𝐚𝐠 to highlight medicines below reorder level.
 
+ 🙌 Acknowledgements
+All data used in this project is 𝐝𝐮𝐦𝐦𝐲 𝐝𝐚𝐭𝐚 created for learning purposes.  
+This project was developed for 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐚𝐧𝐝 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐝𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 — no real patient data is included.
 
-
+𝗔𝘂𝘁𝗵𝗼𝗿:
+ Michael Okposo | Data Analyst
  
 
