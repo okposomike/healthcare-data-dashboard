@@ -4,7 +4,7 @@
 This project demonstrates 𝗱𝗮𝘁𝗮 𝗰𝗹𝗲𝗮𝗻𝗶𝗻𝗴, 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀, 𝗮𝗻𝗱 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗶𝗻 𝗘𝘅𝗰𝗲𝗹 using realistic healthcare data.  
 It is designed as a 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫-𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 to showcase skills in working with real-world datasets, performing analysis, and building interactive dashboards.
 
-
+---
 
 ## Problem Statement
 Pharmacies and clinics often manage 𝗹𝗮𝗿𝗴𝗲 𝘃𝗼𝗹𝘂𝗺𝗲𝘀 𝗼𝗳 𝗽𝗮𝘁𝗶𝗲𝗻𝘁 𝘃𝗶𝘀𝗶𝘁𝘀 𝗮𝗻𝗱 𝗺𝗲𝗱𝗶𝗰𝗶𝗻𝗲 𝗶𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝗶𝗲𝘀.  
@@ -12,6 +12,8 @@ Without proper tracking:
 - It is difficult to identify the most prescribed medicines.
 - Stockouts happen because inventory levels are not monitored.
 - Managers cannot easily see revenue trends or patient visit patterns.
+
+---
 
 ## Proposed Solution
 Using Microsoft Excel, this project focuses on:
@@ -21,6 +23,7 @@ Using Microsoft Excel, this project focuses on:
 4. 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 – visualizing KPIs and trends for quick insights.  
 5. 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐲 – adding slicers, conditional formatting, and filters for dynamic exploration.  
 
+---
 
 ## Dataset Details
 
@@ -40,6 +43,8 @@ Using Microsoft Excel, this project focuses on:
 
 **> ~900 rows — each representing one prescription during a visit.**
 
+---
+
 ### Medicine Inventory (`medicine_inventory.csv`)
 𝗖𝗼𝗹𝘂𝗺𝗻𝘀:  
 - `Medicine_Name`
@@ -51,9 +56,13 @@ Using Microsoft Excel, this project focuses on:
 
 **> Includes a 𝐋𝐨𝐰_𝐒𝐭𝐨𝐜𝐤 𝐟𝐥𝐚𝐠 to highlight medicines below reorder level.**
 
+---
+
 ## Acknowledgements
 **All data used in this project is 𝐝𝐮𝐦𝐦𝐲 𝐝𝐚𝐭𝐚 created for learning purposes.  
 This project was developed for 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐚𝐧𝐝 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐝𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 — no real patient data is included.**
+
+---
 
 ## Author:
 
