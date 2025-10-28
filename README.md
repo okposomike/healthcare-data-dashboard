@@ -68,6 +68,6 @@ This project was developed for 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐚
 
 **Michael Okposo | Data Analyst | SQL • Python • Power BI •**
 
- 📫 [Connect with me on LinkedIn](enter your profile url here)
+ 📫 [Connect with me on LinkedIn]https://linkedin.com/in/okposo-michael-b0b99224a
  
 
